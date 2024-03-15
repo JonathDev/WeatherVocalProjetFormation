@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>home</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="../static/style.css">
+    </head>
+    <body>
+        <form action="/home" method="post">
+            <input type="submit" value="Clique et parle pour demander la météo!">
+        </form>
+        {% if enregistrement %}
+            <p>Résultat : {{ enregistrement }}</p>
+        {% endif %}
+
+
+        <h1>deuxieme titre</h1>
+
+        <div> 
+            <h1>premier titre</h1>
+        </div>
+
+
+        
+
+        <h1 class ="test">troisieme titre</h1>
+
+    </body>
+</html>

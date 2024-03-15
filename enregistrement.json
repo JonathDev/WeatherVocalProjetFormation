@@ -1,0 +1,12 @@
+{
+    "enregistrement": "Ah, tu saoules, je veux la météo pour Paris demain.",
+    "city": "Amsterdam",
+    "lat": 52.3730796,
+    "lon": 4.8924534,
+    "date_debut": [
+        "2024-03-15"
+    ],
+    "date_fin": [
+        "2024-03-15"
+    ]
+}

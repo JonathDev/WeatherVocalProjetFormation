@@ -1,0 +1,14 @@
+h1{
+
+    color : red
+}
+div h1{
+    color : blue
+}
+.test{
+    color : green
+}
+p {
+    text-align: center;
+    color : blue
+}
